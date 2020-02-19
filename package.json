@@ -1,0 +1,23 @@
+{
+  "name": "try-framer-motion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^1.8.4",
+    "lodash.shuffle": "^4.2.0",
+    "next": "9.2.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "ress": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
