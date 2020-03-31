@@ -10,7 +10,7 @@
   "dependencies": {
     "framer-motion": "^1.8.4",
     "lodash.shuffle": "^4.2.0",
-    "next": "9.2.1",
+    "next": "9.3.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "ress": "^2.0.4"
